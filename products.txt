@@ -1,0 +1,1 @@
+laptop,1000,L1,it is lenovo
